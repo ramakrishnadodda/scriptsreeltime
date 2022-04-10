@@ -1,0 +1,35 @@
+•	Setup an agent with GitHub actions  v2.286.1
+•	Setup git version 2.34.1.windows.1
+•	Setup  Microsoft Visual Studio2019 Community 
+1.	ASP.net web development
+•	.net development tools
+•	.net framework 4.7.2 development tools
+•	.net framework 4-4.6  development tools
+•	asp.net and web development tools
+•	cloud tools for web development
+2.	AZURE development kit
+•	Advance asp.net feature
+•	Azure PowerShell
+•	Azure development and prerequisites
+3.	.Net cross platform development
+•	Cloud tools for web development
+•	Web deploy
+4.	Individual setup
+•	Compilers, build tools:
+o	C# and visual basic Roslyn compiler
+o	MSBUILD latest :  16.11.2.50704
+                  Code tools:
+o	Nuget package manager
+o	Nuget target and build tasks
+5.	IIS setup :
+    Server roles:
+•	Application development:
+        .net extensibility 4.7
+         application initlization
+         asp.net4.7
+         isapi extensions
+          Isapi filters           
+•	features: 
+         .net framework 4.6
+          ASP.NET 4.6
+          IIS hostable web core
